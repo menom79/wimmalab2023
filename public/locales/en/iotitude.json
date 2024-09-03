@@ -1,0 +1,55 @@
+{
+    "page-title": "IoTitude",
+    "hero-h1": "Building an open source service Traffic Visualizer",
+    "hero-p": "Our main assigment this summer comes from Combitech Oy. We are building an open source service Traffic Visualizer that uses public traffic APIs i.e. Digitraffic). The service shows data visualizations on a map where you can choose between vehicle types and different timescales.",
+    
+    "h1-team": "Team introduction",
+    "p-team": "Our main assignment this summer comes from Combitech Oy. We are building an open source service Traffic Visualizer that uses public traffic APIs (i.e. Digitraffic). The service shows data visualizations on a map where you can choose between vehicle types and different time-scales. We also built the SFIA skill database API for other projects to use.",
+    
+    "h2-assignment": "Tehtävät",
+    "p-assignment": "IoTitude-tiimillä on tänä kesänä toimeksiantona toteuttaa ”Haastepeli”. Pelin ideana on, että pelimestari keksii haasteen pelaajille, kuten esimerkiksi ”etsi leskenlehti, aikaa 15 minuuttia”. Pelaajat liittyvät koodilla peliin mukaan ja lähettävät Pelimestarille kuvan todistuksena suorituksesta. Pelimestari hylkää tai hyväksyy suoritukset.",
+    "p2-assignment": "Tätä perusideaa lähdetään myöhemmin kesällä vielä kehittelemään pidemmälle. Ideoina on heitetty mm. koneoppimisesta kuvien tunnistuksessa, useampien minipelien haastehuoneista, avatarien generoinnista… vain taivas on rajana.",
+    "p3-assignment": "IoTituden teknologiastäkki näyttää seuraavalta: React Native, NodeJS, PostgreSQL, MinIO, Robot Framework, Jest, Kubernetes ja GitLab CI/CD.",
+
+    "h2-technologies": "Teknologiat",
+    "p-technologies": "IoTituden teknologiastäkki näyttää seuraavalta: React Native, NodeJS, PostgreSQL, MinIO, Robot Framework, Jest, Kubernetes ja GitLab CI/CD.",
+
+    "h2-challenges": "Millaisia haasteita kohdattiin? Miten ne selvitettiin?",
+    "p-challenges": "Kaikki Pengwin median ryhmäläiset eivät olleet käyttäneet Next.js frameworkiä aiemmin, mutta siitä huolimatta niillä saatiin tehtyä hakukoneoptimoidut, tyylikkäät ja informatiiviset verkkosivut. Toinen haaste, oli projektin nopea aikataulu. Pengwin media toteutti ensin vanhemmilla tekniikoilla päivitetymmät sivut WIMMA Labin avoimet ovet-tapahtumaan ja siksi Täysin uuden verkkosivun suunnitteluun ja toteutukseen aikaa oli käytettävissä noin 7 viikkoa.",
+
+    "h2-learned": "Mitä opittiin, millaista oli työskennellä, fiilikset?",
+    "p-learned": "Kesän aikana tutuksi tuli verkkosivuston tekemisen prosessi ensimmäisestä suunnittelupalaverista valmiin verkkosivuston julkaisemiseen. Kesän aikana uutta opittiin paljon ja opittuja taitoja on hyvä lähteä soveltamaan työelämään tai syksyllä takaisin opintojen parissa. WIMMA Lab tarjosi erinomaisen mahdollisuuden verkostoitua muihin opiskelijoihin ja työelämän edustajiin ja ainutlaatuisen kokemuksen, millaista ei opiskelujen aikana muualta saa.",
+
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Reima Parviainen", 
+    "h4-member1": "Team Leader for IoTitude 2023",
+    "p-member1": "I just finished my second year in JAMK. During WIMMALAb I want to focus on project management and test management.",
+    
+    "h3-member2": "Justus Hänninen", 
+    "h4-member2": "Developer",
+    "p-member2-1": "I'm Justus Hänninen, a developer with IoTitude. I'm passionate about coding and learning, so I'm very excited to be a part of WIMMA Lab this year. I'll be going to start my third year this autumn.",
+    
+    "h3-member3": "Hai Nguyen", 
+    "h4-member3": "Junior Developer",
+    "p-member3": "I'm Hai Nguyen, a Junior Developer for IoTitude. I'm passionate about solving real life challenges with code and I'm looking forward to enhance my skills on fullstack application development as a member of WIMMA Lab",
+    
+    "h3-member4": "Ilia Chichkanov", 
+    "h4-member4": "Junior Developer",
+    "p-member4": "I am Ilia Chichkanov, junior developer at IoTitude. I am interested in learning about modern practices in backend programming.",
+    
+    "h3-member5": "Olli Kainu", 
+    "h4-member5": "Junior Developer",
+    "p-member5-1": "I'm Olli Kainu, a Junior Developer at IoTitude. I'm interested in learning about frontend development.",
+
+    "h3-member6": "Otto Nordling", 
+    "h4-member6": "Junior tester",
+    "p-member6": "I'm Otto Nordling, a junior tester at IoTitude. I enjoy learning new things and have always been interested in new technologies, so I consider WIMMA Lab to be a great opportunity for me. I prefer my tea green.",
+
+    "h3-member7": "Alan Ousi", 
+    "h4-member7": "Junior tester",
+    "p-member7": "I'm Alan Ousi, Junior Tester for IoTitude. I'm interested about testing because it offers continuous learning opportunities with the latest technologies.",
+    
+    "h2-twitter": "Follow us on Twitter"
+    
+    }

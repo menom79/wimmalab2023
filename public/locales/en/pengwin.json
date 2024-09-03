@@ -1,0 +1,51 @@
+{
+    "page-title": "Pengwin Media",
+    "hero-h1": "Wimmalab.org and Media",
+    "hero-p": "Pengwin Media creates and designs WIMMA Lab's various graphics, maintains and updates the social media channels.The team also works closely with other teams and consults them as needed. The WIMMA Lab’s Open Doors website and updates to the WIMMA Lab homepage are also made by Pengwin Media. This year Pengwin Media also received an assignment of their own; the Career Scouter website.",
+    
+    "h1-team": "Team introduction",
+    "p-team": "Pengwin Media is responsible for maintaining and updating sites for Mysticon, IoTitude, Overflow and WIMMA Lab. Our team works in cooperation with other virtual companies (Mysticon, IoTitude, Overflow) and produces material and assets for their needs. Pengwin Media also has the responsibility of maintaining and updating WIMMA Lab's social media channels.",
+    
+    "h2-assignment": "Miksi halutaan kehittää? toimeksiantajat?",
+    "p-assignment": "Yhtä tiettyä toimeksiantajaa ei Pengwin medialla ollut. Toimeksiantajaan roolissa WIMMA Labissa toimi JAMK, WIMMA Lab ja muut tiimit. Tähän voi keksiä lisää tekstiä. Tekstejä voi ja pitääkin tyylitellä paremmiksi.......",
+    
+    "h2-technologies": "Käytetyt teknologiat",
+    "p-technologies1": "Päätimme toteuttaa wimmalab.org-sivun uudistuksen Next.js:llä. Next.js on sovelluskehys, joka tekee Reactin käytöstä mielekästä myös perinteisemmissä nettisivuissa. Hyödynsimme oppaat-osiossa markdown-tiedostoja, jotta sisällön päivitys olisi mahdollisimman helppoa ja vaivatonta. Tällaisen ominaisuuden toteuttamiselle löytyi Next.js:stä tukea ja dokumentaatiota. Muita Next.js:n tarjoamia etuja ovat mm. kuvien automaattinen optimointi, tuki lokalisoinnille, hakukoneoptimointi ja nopeat latausajat.",
+    "p-technologies2": "Tyylit toteutimme SCSS:llä, suunnitteluun käytimme Figmaa ja ikonien, logojen ja muun svg-grafiikan toteuttamisessa hyödynsimme Illustratoria.",
+    
+    "h2-challenges": "Haasteet ja niiden ratkaiseminen",
+    "p-challenges1": "Next.js oli suurimmalle osalle Pengwin Medialaisista uusi teknologia, joten opeteltavaa on ollut paljon. Työmäärästä huolimatta saimme toteutettua aiempaa huomattavasti laajemmat, hakukoneoptimoidut ja informatiiviset verkkosivut.",
+    "p-challenges2": "Toinen haaste oli projektin nopea aikataulu: Next.js-projekti päästiin aloittamaan Avoimien ovien jälkeen, sillä toteutimme ensin perinteisillä HTML/CSS -tekniikoilla kevyesti päivitetyt sivut tapahtuman markkinointia varten. Tämän vuoksi täysin uuden verkkosivun suunnitteluun ja toteutukseen oli käytettävissä vain noin puolet kesästä.",
+    
+    "h2-learned": "Yhteenveto",
+    "p-learned": "Verkkosivuston toteuttamisen prosessi ensimmäisestä suunnittelupalaverista valmiin sivuston julkaisemiseen tuli kesän aikana tutuksi. WIMMA Labissa karttuneita taitoja on hyvä lähteä soveltamaan työelämään tai syksyllä jatkuvien opintojen parissa. WIMMA Lab tarjosi erinomaisen mahdollisuuden verkostoitua muihin opiskelijoihin ja työelämän edustajiin, ja oli ainutlaatuisen kokemus, jollaista ei opiskelujen aikana muualta saa.",
+    
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Yago Sanches", 
+    "h4-member1": "Team Leader",
+    "p-member1": "My name is Yago Sanches, and I am from Brazil. I am beginning my third year in ICT, beginning this autumn. I have chosen project management and development application as my specializations. Currently, I hold the position of team leader at Pengwin Media. While at WIMMA Lab, I am determined to absorb as much knowledge as possible regarding project management practices, including agile development, and get insights into effective project execution.",
+
+    "h3-member2": "Menom Haque", 
+    "h4-member2": "Tester",
+    "p-member2": "I’m Menom, a tester in the team Pengwin Media. I am now focusing on test automation engineering in my team. My aim in the WimmaLab-2023 is to gather knowledge on the different roles of people working on a project and how they collaborate to accomplish it.",
+    
+    "h3-member3": "Ankita Roy", 
+    "h4-member3": "Junior Developer",
+    "p-member3": "I am studying ICT at Jamk University of Applied Sciences. I am determined to specialize in Full-Stack Development. I love coding and recognize the importance of soft skills in teamwork. At WIMMA Lab, I am developing the Career Scouter tool. It helps students explore various career paths and allows them to track their evolving choices throughout their studies. This tool also assists teachers and employers in understanding students' career preferences and adjusting courses accordingly.",
+    
+    "h3-member4": "Marika Matalamäki", 
+    "h4-member4": "Designer and Junior Developer",
+    "p-member4": "I am studying ICT at Jamk University of Applied Sciences. I will start my 4th year of study in the autumn. I have knowledge and skills in digital media and application development. I work at WIMMA Lab mainly in communication and marketing tasks.",
+    
+    "h3-member5": "Salla Gone",
+    "h4-member5": "Designer and Junior Developer",
+    "p-member5": "I'm starting my second year of ICT studies at Jamk in the fall. I have experience in software developing, specializing in games, from a vocational school. At WIMMA Lab I work mainly with marketing, graphics designing and communications. I also give a hand with other things when needed.",
+    
+    "h3-member6": "Lauri Kuuva", 
+    "h4-member6": "Media Producer and Junior Coder",
+    "p-member6": "I am currently studying my 2nd year at Jamk for Bachelor’s degree in Information and Communications Technology and starting my 3rd year in the fall. At WIMMA Lab I am currently developing a tool called Career Scouter, which is designed to be a helpful tool for students and teachers in finding out why students change their study paths in the middle of their studies, and aims to help teachers to adjust their courses and materials according to these changes.",
+
+    "h2-twitter": "Follow us on Twitter"
+    
+}

@@ -1,0 +1,61 @@
+{
+    "page-title": "Overflow",
+    "hero-h1": "WIMMA Lab forum",
+    "hero-p": "Team Overflow was tasked at WimmaLab 2023 to update the Skill Collector made at FutureFactory in spring 2023. There are plans to improve the usability of the Skill Collector and make it a 'clean' version so that it can be branded according to the purpose / company. Overflow's task this year is also to learn how to make a product from a DevSecOps perspective.",
+    
+    "h1-team": "Team introduction",
+    "p-team": "The Overflow 2023 team consists of students who are at different stages of their studies in Information and Communication Technology at JAMK, but everyone is eager to learn new things!",
+
+    "h2-assignment": "Tehtävät ja tavoitteet",
+    "p-assignment": "Palvelusta tulee olemaan hyötyä yrityksille, opiskelijoille ja ohjaajille. Jos yrityksillä tai yksityisyrittäjillä on jonkinlaisia projekti- tai kehityshaasteita opiskelijoille, he voivat täyttää ja lähettää lomakkeen Future Factoryn tiimille. Kun toimeksianto on hyväksytty FF-tiimin puolesta, FF-tiimin jäsen voi lisätä toimeksiannon palveluumme.",
+    "p2-assignment": "JAMKin Future Factory -kurssin opiskelijat voivat helposti selailla toimeksiantoja ja valita kiinnostavimman toimeksiannon ja siellä auki olevan tiimiroolin itselleen. Opiskelija voi käyttää suodatinta ja lajittelua saadakseen hänelle parhaiten sopivat tehtävät näkyviin. Palvelumme avulla pyrimme rakentamaan tiimejä, jotka koostuvat eri alojen opiskelijoista ja/tai eri tiimiroolin omaavista opiskelijoista.",
+    "p3-assignment": "Ensimmäiseen versioon palvelusta pyrimme lisäämään tärkeimmät ominaisuudet sekä pyrimme toteuttamaan ensimmäisen version siten, että sinne voidaan myöhemmin lisätä helposti muita tarpeellisia ominaisuuksia.",
+    
+    "h2-technologies": "Käytetyt teknologiat",
+    "p-technologies": "Teknologioita, joita käytimme: -Microsoft Power Automate: Ajatuksena oli, että Power Automaten käyttö muutamissa kohdissa olisi kiva lisäys. -Kubernetes & Gitlab CI/CD: Palvelu on tarkoitus laittaa pyörimään kubernetesin päälle, samalla hyödyntäen GitLabin CI/CD pipelinejä. Mysticons oli tässä asiantuntijana ja antoi meille ohjeet. -React: React oli useammalle tiimin jäsenestä tuttu, ja on toimiva kieli, joten sitä käytämme frontissa. - Node.js: Oli myös käytössä frontissa. -.NET Core: ASP.NET Core oli myös useammalle tiimin jäsenestä tuttu, joten käytimme sitä kielenä backendissä. -PostgreSQL: Tietokantaan valitsimme PostgreSQL, koska se on nopea laittaa pystyyn ja helppo käyttää. -Cypress: Aluksi oli suunnitteilla tehdä Robot Frameworkia käyttäen testejä, mutta vaihdoimmekin Cypressiin, koska sillä on muun muassa helppoa tehdä testejä. - Admin-frontendissä käytetyt teknologiat: Node.js, React, Formik, Axios, Material UI, Yup",
+
+    "h2-challenges": "Kohdatut haasteet ja niiden ratkaisu",
+    "h4-challenge1": "Autentikoinnin lisäys",
+    "p-challenge1": "Ajatuksena oli, että saisimme käytettyä Keycloakia palvelun kehitysvaiheessa autentikoinnissa. Haka-tunnistautuminen käyttää Saml2.0 (The Security Assertion Markup Language), ja Keycloak tukee Saml2.0:aa. Näin ollen Keycloakista vaihto Hakaan olisi ollut helpompaa. Saml2.0 lisäys backendin koodiin olikin astetta vaikeampaa. Emme saaneet sitä Keycloakin kanssa toimimaan, joten kokeilimme myös Oktaa. Vaihdon avulla teimme pientä edistystä. Autentikaatio toimi nyt jotenkuten, mutta siinä oli edelleen jotain rikki ja ratkaisua ei ehditä keksiä ajan vähyyden vuoksi. Jouduimme luopumaan tämän teosta, eli nyt ensimmäisessä versiossa ei ole autentikointia mukana.",
+    "h4-challenge2": "Mitä tietoja voimme säilyttää?",
+    "p-challenge2": "Tätä jouduimme pohtimaan paljon suunnitteluvaiheessa. Totesimme, että nyt kehitysvaiheessa käytämme omia koulun sähköposteja tai tekaistuja tunnuksia, mutta palvelun käyttöönotossa tätä varten tulisi tehdä rekisteriseloste. Suunnitteilla olisi, että tiedot, joita otetaan opiskelijoilta on koulun sähköposti, ja tietoa pidettäisiin palvelussa vain max. viikon ajan. Emme itse ehtineet nyt tehdä rekisteriselostetta, joten mahdollisen projektin jatkajan on tehtävä se.",
+    "h4-challenge3": "Kubernetes ja kontit",
+    "p-challenge3": "Konttien laitossa Kuberneteksen päälle ja GitLab CI/CD pipelinejen toimivuudessa kohdattiin haasteita. Erroreita tuli useampi tätä tehtäessä, mutta ne saatiin ratkaistua yhteistyössä Mysticonsin kanssa.",
+
+    "h2-learned": "Yhteenveto",
+    "p-learned": "Kesä meni oikein hyvillä fiiliksillä, ja koko tiimi oppi paljon Gitin käytöstä. Opimme asioita useammista teknologioista: osalle useampi käytössä ollut teknologia oli uutta ja niille joille oli tuttua, he pääsivät parantamaan taitojaan sen teknologian parissa. Power Automate sekä Kubernetes & GitLab CI/CD-yhdistelmä olivat aikalailla koko tiimille uutta. Työskentely tehtiin etänä Discordia käyttäen, ja se onnistui hyvin.",
+
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Iina Pirinen", 
+    "h4-member1": "Team Leader",
+    "p-member1": "I am a second-year student, starting my third year of studies in the fall. I plan to specialize in application development and data analytics and artificial intelligence, but I'm passionate about UI/UX design, which I would like to be involved in in the future. In Wimma Lab, I plan to develop my skills as a team leader, and in project management and communication.",
+
+    "h3-member2": "Valeriia Grebneva", 
+    "h4-member2": "Data Engineer",
+    "p-member2": "I have a background in Industrial Management and Logistics, and I am currently an ICT student at JAMK. Within WimmaLab, my primary focus is on data analysis, data visualization, and automation using Power Automate. I also have experience in front-end and full-stack development, allowing me to create user-friendly interfaces. My goal is to enhance my skills and knowledge in these areas while contributing to WimmaLab's mission.",
+
+    "h3-member3": "Niko Karvinen", 
+    "h4-member3": "Sys Admin",
+    "p-member3": "I am a second-year Information Technology student with an interest in DevSecOps and full-stack programming. I am eager to apply the theoretical knowledge I've acquired during my studies to practical challenges within a real-world environment.",
+    
+    "h3-member4": "Thien Nguyen", 
+    "h4-member4": "Full Stack Developer",
+    "p-member4": "I study ICT at JAMK. I am learning to become a coder. I have experience in data analysis. I am interested in data science.",
+    
+    "h3-member5": "Alena Galysheva", 
+    "h4-member5": "Test Engineer",
+    "p-member5": "Hi! I'm Alena, a second-year ICT student at JAMK. I'm interested in emerging technologies and all things testing. My goal is to become a test automation engineer, and I will be working on various testing tasks during this summer. In my free time I do LeetCode, build my Nighthaunt army and play tabletop games with my friends.",
+    
+    "h3-member6": "Iftakhar Husan", 
+    "h4-member6": "Back-end Developer",
+    "p-member6": "Since my childhood, I was very enthusiastic about computer games. From there my passion and love for computers grew. It felt like I got super power when I first started programming in 2018. Before starting my studies at JAMK in autumn 2022 in ICT I was learning using online materials from youtube and online articles to quench my thirst for technologies. Love to work in teams to achieve common goal. I am interested in anything related to computers, software development, systems design and security. Currently wearing the hat of Full-stack developer.",
+    
+
+    "h3-member7": "Thu 'Lucy' Nguyen", 
+    "h4-member7": "UI/UX Designer",
+    "p-member7": "I just completed my second year of studies in ICT at JAMK. I had no experience in this field before I started studying but faced with new challenges, it is an opportunity that helps me grow. I'm on my way to becoming a front-end developer and especially a UI/UX designer in the future.",
+
+    "h2-twitter": "Follow us on Twitter"
+    
+    }

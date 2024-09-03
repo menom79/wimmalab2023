@@ -1,0 +1,60 @@
+{
+    "page-title": "Mysticons",
+    "hero-h1": "Foundation for WIMMA Lab SOC",
+    "hero-p": "Our main assignment is to create automated SOC,SIEM,SOAR with CI/CD security checks as possible as well as host and monitor other companies working inside WIMMA Lab.",
+    
+    "h1-team": "Team introduction",
+    "p-team-1": "Mysticons also provides consultation services to other teams when it comes to containerizing their software and DevSecOps related principles. Mysticons also provide penetration tests and documentation regarding existing issues.",
+    "p-team-2": "Mysticons aim to establish a robust, scalable hosting environment that can be expanded with minimal disruption to production. This system prioritizes security through the implementation of a ticketing system, automated vulnerability assessments, and a strict CI/CD pipeline. These measures are designed to prevent the deployment of vulnerable containers and to assist other companies during their development and maintenance phases.",
+    
+    "h2-assignment": "Project purpose and goal",
+    "p-assignment-1": "Mysticons assignments were WIMMA Lab internal assignments given by Marko “Narsuman” Rintamäki. The goal with Power Automate was to reduce the workload of teachers when the workspaces with needed materials for the course could be created automatically, and students could be as well added to groups automatically. With Kubernetes the goal was to get as far as possible with the development of the cluster and bring DevSecOps methods to the process as was achievable in given time frame.",
+    "p-assignment-2": "The idea behind the Kubernetes cluster is that the cluster could be used to replace paid cloud services in student projects such as WIMMA Lab projects. Adding DevSecOps and the CI/CD pipelines to the cluster students are taught modern ways of software development. Such as automated testing with Robot Framework and SAST and DAST checks in pipelines.",
+   
+
+    "h2-technologies": "Technologies used",
+    "p-technologies": "MS Power Automate, Teams, MS Forms, MS Excel, OneDrive, SharePoint, GitLab, email (Outlook). Kubernetes, DevSecOps, CI/CD pipelines, Robot Framework, script, Ansible. Technologies had to be compatible, in both solutions. In addition, Kubernetes used open-source technologies.",
+
+    "h2-challenges": "Challenges",
+    "p-challenges-1": "The created Power Automate workflow uses features which require Power Automate Premium license, with the license flow creation can be quite simple. However, joining GitLab API to the flow required some knowledge about JSON scripting. Understanding of loops was very helpful when creating alternative event flows for error situations.",
+    "p-challenges-2": "Kubernetes assignment was a huge challenge itself, as the assignment scope was very wide with the DevSecOps twist. Everything in the Kubernetes project was new to the team and processes were created with trial-and-error methods. Strong teamwork was needed to solve challenges and to achieve the accomplished results.",
+    "p-challenges-3": "Due to the scale of the project, Mysticons was able to only scratch the surface during the summer. But with good and thorough documentation is intended to give a good start to those who will join to the project later.",
+
+    "h2-learned": "What we learned",
+    "p-learned": "Mysticons had very strong team spirit during the summer 2021. The team was not afraid of challenges but worked actively to achieve the goals. Although not all goals were achieved, the team learned a lot during the summer.",
+
+
+    "h2-introduction": "Team members",
+    
+    "h3-member1": "Aarne Salmi", 
+    "h4-member1": "Team Leader",
+    "p-member1": "Hello, I'm an operative cyber security handyman and I'm passionate about DevSecOps, Red teaming and wireless attacks. I'm excited to be part of WIMMA Lab and I'm going to focus on helping the Mysticons Team to be as battle ready with SOC as possible.",
+    
+    "h3-member2": "Karri Päivärinta", 
+    "h4-member2": "Junior DevSecOps Architect",
+    "p-member2": "Hello, I'm Karri Päivärinta and a cybersecurity trainee at Mysticons. I'm interested in cybersecurity in general and very excited to be part of Wimma Lab 2023. Main personal goal is to learn Docker and Kubernetes technologies as well as possible and how cybersecurity can be applied through those.",
+    
+    "h3-member3": "Petteri Stjerna", 
+    "h4-member3": "Junior DevSecOps Architect",
+    "p-member3": "I'm Petteri Stjerna, a junior DevOps engineer at Mysticon. I have always been interested in computers and automation. Being able to get familiar with practices and tools used in modern DevOps workflows at WIMMA Lab is going to be a great learning experience for me.",
+    
+    "h3-member4": "Oskar Sinkkilä", 
+    "h4-member4": "Junior DevSecOps Architect",
+    "p-member4": "Pleased to meet you! My name is Oskar Sinkkilä, Mysticons member, focusing on testing. Haven't really done testing before but WIMMA lab gives an excellent opportunity to learn! I also get to work with more experienced testers from other teams and use tools like SquashTM. Testing automation and DevSecOps are also things I'm interested in.",
+    
+    
+    "h3-member5": "Markus Pollari", 
+    "h4-member5": "Junior DevSecOps Architect",
+    "p-member5": "I am Markus Pollari, a junior DevSecOps architect for Mysticons. My primary focus lies in the field of cyber security and penetration testing. During my time at Wimmalab, I am eager to enhance my knowledge and skills in Docker and Kubernetes.",
+        
+    "h3-member6": "Saad", 
+    "h4-member6": "Junior DevSecOps Architect",
+    "p-member6": "I’m Saad, a Masters in Cyber security student at the Jamk UAS primarily interested in DevSecOps, Red Teaming, SOC, Python programming and Security Testing. My aim at the Wimma Lab is to contribute significantly towards the project of Setting up a Production Environment for our development team, while learning the necessary skills and technologies during the course of this project. My hobbies include watching movies and TV series and playing soccer.",
+
+    "h3-member7": "Louis Doan", 
+    "h4-member7": "Junior DevSecOps Architect",
+    "p-member7": "I am Louis Doan, a Junior Cyber Security at Mysticons. I came to WimmaLab to gain my knowledge here in every aspect as I could. But I'm aiming to be a Cloud Security Engineer, and am now doing step by step in my roadmap to achieve it.",
+
+    "h2-twitter": "Follow us on Twitter"
+    
+    }
